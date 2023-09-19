@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnehithKanikella
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Cloud Computing
+- 🌱 I’m currently exploring ... UX Designing
 - 💞️ I’m looking to collaborate on ... Full Stack Development
 - 📫 How to reach me ... Mail : snehith.k19@iiits.in
 
